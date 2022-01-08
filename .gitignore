@@ -1,0 +1,24 @@
+# Project exclude paths
+/discover-server/target/
+/discover-server/discover-server.iml
+/dtx-notifymsg-demo/dtx-notifymsg-demo.iml
+/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/target/
+/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/dtx-notifymsg-demo-bank1.iml
+/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/target/
+/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/dtx-notifymsg-demo-pay.iml
+/dtx-seata-demo/dtx-seata-demo.iml
+/dtx-seata-demo/dtx-seata-demo-bank1/target/
+/dtx-seata-demo/dtx-seata-demo-bank1/dtx-seata-demo-bank1.iml
+/dtx-seata-demo/dtx-seata-demo-bank2/target/
+/dtx-seata-demo/dtx-seata-demo-bank2/dtx-seata-demo-bank2.iml
+/dtx-tcc-demo/dtx-tcc-demo.iml
+/dtx-tcc-demo/dtx-tcc-demo-bank1/target/
+/dtx-tcc-demo/dtx-tcc-demo-bank1/dtx-tcc-demo-bank1.iml
+/dtx-tcc-demo/dtx-tcc-demo-bank2/target/
+/dtx-tcc-demo/dtx-tcc-demo-bank2/dtx-tcc-demo-bank2.iml
+/dtx-txmsg-demo/dtx-txmsg-demo.iml
+/dtx-txmsg-demo/dtx-txmsg-demo-bank1/target/
+/dtx-txmsg-demo/dtx-txmsg-demo-bank1/dtx-txmsg-demo-bank1.iml
+/dtx-txmsg-demo/dtx-txmsg-demo-bank2/target/
+/dtx-txmsg-demo/dtx-txmsg-demo-bank2/dtx-txmsg-demo-bank2.iml
+.idea
